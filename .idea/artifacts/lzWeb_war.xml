@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lzWeb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lzWeb.war">
+      <element id="artifact" artifact-name="lzWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
