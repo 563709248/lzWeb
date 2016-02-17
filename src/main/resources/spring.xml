@@ -9,5 +9,5 @@
     <!-- 加载配置文件 -->
     <context:property-placeholder location="classpath:properties/config.properties"/>
     <!-- 扫描service自动注入为bean -->
-    <context:component-scan base-package="com.lz.service,com.lz.dao"/>
+    <context:component-scan base-package="com.lz.service.impl,com.lz.dao.imp"/>
 </beans>
