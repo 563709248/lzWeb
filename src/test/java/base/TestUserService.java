@@ -11,6 +11,8 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.util.UUID;
 
+import static org.junit.Assert.assertEquals;
+
 /**
  * Created by Maven on 2016/2/17.
  */
@@ -26,10 +28,12 @@ public class TestUserService {
     @Test
     public void save() {
         User user = new User();
-        user.setId(UUID.randomUUID().toString());
+        String oldId = UUID.randomUUID().toString();
+        user.setId(oldId);
         user.setUserName("lailingzhi");
         user.setPassWord("lailingzhi");
         String id = userService.save(user);
-        LOGGER.info(id);
+        assertEquals(id, id);
+        userService.delete(id);
     }
 }

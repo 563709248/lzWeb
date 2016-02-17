@@ -65,8 +65,8 @@
       <file leaf-file-name="TestUserService.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/base/TestUserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68118465" vertical-offset="322" max-vertical-offset="943">
-              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.80139375" vertical-offset="368" max-vertical-offset="1035">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,8 +181,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lz/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/lz/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/java/base/TestUserService.java" />
         <option value="$PROJECT_DIR$/src/main/resources/properties/config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/base/TestUserService.java" />
       </list>
     </option>
   </component>
@@ -878,12 +878,12 @@
       <changelist id="b979e581-7937-45d5-96c9-63ee61020d31" name="Default" comment="" />
       <created>1455689970172</created>
       <updated>1455689970172</updated>
-      <workItem from="1455689972513" duration="11395000" />
+      <workItem from="1455689972513" duration="12059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11395000" />
+    <option name="totallyTimeSpent" value="12059000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -957,7 +957,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1080,7 +1080,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1213,8 +1213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/base/TestUserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68118465" vertical-offset="322" max-vertical-offset="943">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.80139375" vertical-offset="368" max-vertical-offset="1035">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
