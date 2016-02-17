@@ -15,7 +15,7 @@ public class HelloWord {
 
     @RequestMapping(method = RequestMethod.GET)
     public ModelAndView index(Model model) {
-        ModelAndView mv = new ModelAndView("index");
+        ModelAndView mv = new ModelAndView("/index");
         mv.addObject("title", "Spring MVC And Freemarker");
         mv.addObject("content", " Hello world ， test my first spring mvc ! ");
         return mv;
